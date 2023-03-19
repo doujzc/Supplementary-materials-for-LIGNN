@@ -10,7 +10,7 @@ We have updated the writing of the paper, including:
   
 Other updates include
 - Fixed citations.
-- link level $\rightarrow$ link-level
+- Title: link level $\rightarrow$ link-level
 - Section 2.2 renamed to be "Message passing for link prediction"
 - Added motivations for linearizing the layers in Section 3.2.
 - Added more citations of related works
