@@ -46,4 +46,7 @@ The results are as follows. **Best results** are bold, and <u>secondary results<
 We are sorry that we are only able to run these experiments due to the limited time.
 
 ### EdgeTransformer
-To run the evaluation, first follow the EdgeTransformer's instructions to train an EdgeTransformer model. Follow the scripts `EdgeTransformer/evaluation.ipynb` to load and evaluate the model. The evaluation process in `EdgeTransformer/evaluation.ipynb` is directly taken from the LIGNN code, which provides a fair comparison.
+Run `EdgeTransformer/train_ef.py` to evaluate EdgeTransformer on PCQM-Contact. The codes of the EdgeTransformer model is taken from its official implementation, and the training & evaluation routine is taken from the LIGNN codes.
+
+We have just made the codes work properly recently and are still running the experiments. We will release the results as soon as the results are out.
+
